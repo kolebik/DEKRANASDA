@@ -91,7 +91,7 @@ Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- p
       </div>
     </div>
     <div class="catalog-item">
-      <img src="https://images.pexels.com/photos/276651/pexels-photo-276651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=180" alt="Product 2" />
+      <img src="https://cdn.discordapp.com/attachments/1127837308306083861/1367836633096917092/WhatsApp_Image_2025-05-02_at_10.03.13_38ae7141-removebg-preview.png?ex=681608a2&is=6814b722&hm=59fbb3682b6f8c0b4f62cc2e59d4b1cab72cfaa568fbeaaeb53c1c9f1b5b02ba&" />
       <div class="details">
         <div class="title">Modern Lamp</div>
         <div class="description">Sleek and stylish lamp to brighten your workspace or bedroom.</div>
