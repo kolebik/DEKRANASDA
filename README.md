@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- produk-produk ikm khas batam 
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
