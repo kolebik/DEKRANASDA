@@ -78,7 +78,7 @@ Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- p
 </head>
 <body>
 <header>
-  Product Catalog
+  𝗣𝗥𝗢𝗗𝗨𝗞 𝗜𝗞𝗠 𝗞𝗛𝗔𝗦 𝗕𝗔𝗧𝗔𝗠
 </header>
 <main>
   <div class="catalog-grid">
