@@ -1,3 +1,6 @@
+header {
+    display: none; /* Menyembunyikan header */
+}
 Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- produk-produk ikm khas batam 
 <html lang="en">
 <head>
