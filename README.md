@@ -86,7 +86,7 @@ Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- p
 <main>
   <div class="catalog-grid">
     <div class="catalog-item">
-      <img src="https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=180" alt="Product 1" />
+      <img src="https://github.com/kolebik/Dekra-Kota-batam/blob/main/WhatsApp_Image_2025-05-02_at_09.33.28_d99f3fb7-removebg-preview.png?raw=true" />
       <div class="details">
         <div class="title">Cool Wooden Chair</div>
         <div class="description">A beautifully crafted wooden chair for your living room or office space.</div>
