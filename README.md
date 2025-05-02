@@ -107,11 +107,11 @@ Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- p
       </div>
     </div>
     <div class="catalog-item">
-      <img src="https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=180" alt="Product 4" />
+      <img src="https://cdn.discordapp.com/attachments/1127837308306083861/1367841038990839808/WhatsApp_Image_2025-05-02_at_09.32.16_fa5f4f9c-removebg-preview.png?ex=68160cbc&is=6814bb3c&hm=1804ad651039b9305816275ddadebd8331de54abe796176cf61da520edc2bce6&" />
       <div class="details">
-        <div class="title">Minimalist Clock</div>
-        <div class="description">Simple design wall clock with silent movement for a peaceful environment.</div>
-        <div class="price">$45</div>
+        <div class="title">TULGI</div>
+        <div class="description">Ikan, Tulang Ikan, Tepung Tapioka, Gula Pasir, Garam, Penyedap, Bawang Putih, Air, Minyak Untuk Menggoreng</div>
+        <div class="price">Rp 19.000</div>
       </div>
     </div>
   </div>
