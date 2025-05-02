@@ -85,7 +85,7 @@ Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- p
     <div class="catalog-item">
       <img src="https://cdn.discordapp.com/attachments/1127837308306083861/1367838070807728291/WhatsApp_Image_2025-05-02_at_09.33.28_d99f3fb7-removebg-preview.png?ex=681609f9&is=6814b879&hm=733578cdc6964b5d7b9e6875ca97e9c0d0992eb0a7267161be129dc6971c2a12&" />
       <div class="details">
-        <div class="title">Keripik Pangsit Ebi</div>
+        <div class="title">KERIPIK PANGSIT EBI</div>
         <div class="description">Tepung Terigu, Ebi, Daun Kari, Margarin, Garam, Telur, Air, Tapioka, Minyak Goreng, & Bumbu Tambahan Lainnya.</div>
         <div class="price">Rp 22.000</div>
       </div>
@@ -93,17 +93,17 @@ Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- p
     <div class="catalog-item">
       <img src="https://cdn.discordapp.com/attachments/1127837308306083861/1367837337605640212/WhatsApp_Image_2025-05-02_at_10.03.13_38ae7141-removebg-preview.png?ex=6816094a&is=6814b7ca&hm=987d0fbe06acf96d3d0a339842a78e9e6d1662ea4dc2d987b4895bc67a8c183e&" />
       <div class="details">
-        <div class="title">Keripik Kari Gonggong</div>
+        <div class="title">KERIPIK KARI GONGGONG</div>
         <div class="description">Terigu, garam, gula, bumbu kari, gonggong, minyak goreng</div>
         <div class="price">Rp 20.000</div>
       </div>
     </div>
     <div class="catalog-item">
-      <img src="https://images.pexels.com/photos/845451/pexels-photo-845451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=180" alt="Product 3" />
+      <img src="https://cdn.discordapp.com/attachments/1127837308306083861/1367840226243772617/WhatsApp_Image_2025-05-02_at_09.40.45_361a0f2b-removebg-preview.png?ex=68160bfb&is=6814ba7b&hm=1c408b6520a11a2a0a6aa795b06f1eabe72918bfba2bcd259d888a920b7f0998&" />
       <div class="details">
-        <div class="title">Comfort Desk</div>
-        <div class="description">Ergonomically designed desk with spacious drawers for all your office needs.</div>
-        <div class="price">$340</div>
+        <div class="title">SALTED EGG POTATO CHIPS</div>
+        <div class="description">Kentang, Daun Kari, Bawang Putih, Bumbu Tabur, Salted Egg, Gula dan Garam.</div>
+        <div class="price">Rp 24.000</div>
       </div>
     </div>
     <div class="catalog-item">
