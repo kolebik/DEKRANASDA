@@ -91,11 +91,11 @@ Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- p
       </div>
     </div>
     <div class="catalog-item">
-      <img src="https://cdn.discordapp.com/attachments/1127837308306083861/1367836633096917092/WhatsApp_Image_2025-05-02_at_10.03.13_38ae7141-removebg-preview.png?ex=681608a2&is=6814b722&hm=59fbb3682b6f8c0b4f62cc2e59d4b1cab72cfaa568fbeaaeb53c1c9f1b5b02ba&" />
+      <img src="[https://cdn.discordapp.com/attachments/1127837308306083861/1367836633096917092/WhatsApp_Image_2025-05-02_at_10.03.13_38ae7141-removebg-preview.png?ex=681608a2&is=6814b722&hm=59fbb3682b6f8c0b4f62cc2e59d4b1cab72cfaa568fbeaaeb53c1c9f1b5b02ba&](https://cdn.discordapp.com/attachments/1127837308306083861/1367837337605640212/WhatsApp_Image_2025-05-02_at_10.03.13_38ae7141-removebg-preview.png?ex=6816094a&is=6814b7ca&hm=987d0fbe06acf96d3d0a339842a78e9e6d1662ea4dc2d987b4895bc67a8c183e&)" />
       <div class="details">
-        <div class="title">Modern Lamp</div>
-        <div class="description">Sleek and stylish lamp to brighten your workspace or bedroom.</div>
-        <div class="price">$75</div>
+        <div class="title">Keripik Kari Gonggong</div>
+        <div class="description">Terigu, garam, gula, bumbu kari, gonggong, minyak goreng</div>
+        <div class="price">Rp 20.000</div>
       </div>
     </div>
     <div class="catalog-item">
