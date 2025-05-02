@@ -91,7 +91,7 @@ Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- p
       </div>
     </div>
     <div class="catalog-item">
-      <img src="https://cdn.discordapp.com/attachments/1127837308306083861/1367838070807728291/WhatsApp_Image_2025-05-02_at_09.33.28_d99f3fb7-removebg-preview.png?ex=681609f9&is=6814b879&hm=733578cdc6964b5d7b9e6875ca97e9c0d0992eb0a7267161be129dc6971c2a12&" />
+      <img src="https://cdn.discordapp.com/attachments/1127837308306083861/1367837337605640212/WhatsApp_Image_2025-05-02_at_10.03.13_38ae7141-removebg-preview.png?ex=6816094a&is=6814b7ca&hm=987d0fbe06acf96d3d0a339842a78e9e6d1662ea4dc2d987b4895bc67a8c183e&" />
       <div class="details">
         <div class="title">Keripik Kari Gonggong</div>
         <div class="description">Terigu, garam, gula, bumbu kari, gonggong, minyak goreng</div>
