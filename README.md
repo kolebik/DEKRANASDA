@@ -85,7 +85,7 @@ Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- p
     <div class="catalog-item">
       <img src="https://github.com/kolebik/Dekra-Kota-batam/blob/main/WhatsApp_Image_2025-05-02_at_09.33.28_d99f3fb7-removebg-preview.png?raw=true" />
       <div class="details">
-        <div class="title">( Marsaif ) Keripik Pangsit Ebi</div>
+        <div class="title">(MARSAIF) Keripik Pangsit Ebi</div>
         <div class="description">Tepung Terigu, Ebi, Daun Kari, Margarin, Garam, Telur, Air, Tapioka, Minyak Goreng, & Bumbu Tambahan Lainnya.</div>
         <div class="price">Rp 22.000</div>
       </div>
