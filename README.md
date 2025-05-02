@@ -1,6 +1,3 @@
-.navbar-brand {
-  display: none;
-}
 Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- produk-produk ikm khas batam 
 <html lang="en">
 <head>
